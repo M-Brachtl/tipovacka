@@ -1,0 +1,42 @@
+/* body h1,h2,h3{
+    width: 200px;
+}
+.match{
+    display: inline-block;
+    width: 200px;
+} */
+script{
+    display:none;
+}
+table{
+    border: solid darkgray 5px;
+    padding: 2px;
+}
+th{
+    border: solid 2px black;
+}
+img{
+    margin: 0px;
+    width: 30px;
+    display: block;
+}
+td{
+    width: 100px;
+    text-align: center;
+    border: solid 1px grey;
+}
+.image-field{
+    width: auto;
+}
+.tip{
+    display: inline-flex;
+}
+input{
+    width: 43px;
+}
+div{
+    display: inline-block;
+}
+#confirm{
+    display: block;
+}
